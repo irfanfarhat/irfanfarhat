@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @irfanfarhat
-- 👀 I’m program manager & machine learning enthusiast.
-- 🌱 I’m currently learning machine learning
+- 🌱 Program Manager and Machine Learning Engineer
 - 💞️ I’m looking to find amazing people, help & support
 - 📫 How to reach me 
       linkedin : https://www.linkedin.com/in/irfanfarhatullah/
