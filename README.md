@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irfanfarhat
-- 🌱 Program Manager and Machine Learning Engineer
+- 🌱 Tech Savvy and project manager with focus on Game Development, Gameplay Programming, Game AI, and GPU programming. C++, Unreal Engine 5, CUDA Programming, Machine Learning and Reinforcement Learning.
 - 💞️ I’m looking to find amazing people, help & support
 - 📫 How to reach me 
       linkedin : https://www.linkedin.com/in/irfanfarhatullah/
