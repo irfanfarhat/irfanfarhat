@@ -5,6 +5,13 @@
       linkedin : https://www.linkedin.com/in/irfanfarhatullah/
       email : irfanfarhatullah@gmail.com
       LinkTree: https://linktr.ee/irfanfarhat
+
+- Tech Stack:
+      Skills: C++, Python, CUDA, MySQL, JSON, XML, Git, Nsight, Unreal Engine, Jira
+      Management: Jira, Notion, Trello, Asana
+      Game Development: Unreal Engine 5, C++
+      GPU + Accelerated Programming: CUDA + C++
+      Area of Interests: Game Development, Game AI, Machine Learning & GPU Programming
   
 
 <!---
